@@ -57,6 +57,16 @@ class BookingPrices extends Component {
                           marginLeft: "5px",
                           marginRight: "5px"
                         }}>30/11</b><br/>
+                         <b
+                          style={{
+                          marginLeft: "5px",
+                          marginRight: "5px"
+                        }}>1/05</b><FontAwesomeIcon icon="arrow-right"/>
+                        <b
+                          style={{
+                          marginLeft: "5px",
+                          marginRight: "5px"
+                        }}>31/05</b><br/>
                       </div>
                     </div>
                   </div>
@@ -173,17 +183,6 @@ class BookingPrices extends Component {
                           marginLeft: "5px",
                           marginRight: "5px"
                         }}>31/01</b>
-                        <br/>
-                        <b
-                          style={{
-                          marginLeft: "5px",
-                          marginRight: "5px"
-                        }}>1/02</b><FontAwesomeIcon icon="arrow-right"/>
-                        <b
-                          style={{
-                          marginLeft: "5px",
-                          marginRight: "5px"
-                        }}>31/02</b>
                         <br/>
                       
                       </div>
