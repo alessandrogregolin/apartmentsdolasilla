@@ -1,0 +1,426 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.DateRangePicker__HalfDateStates {
+  bottom: 0 !important;
+  left: 0 !important;
+  position: absolute !important;
+  right: 0 !important;
+  top: 0 !important;
+  box-sizing: border-box;
+  transform: rotate(0deg) !important;
+  width: 100% !important;
+}
+
+.DateRangePicker__CalendarDatePeriod--pm {
+  left: 0 !important;
+}
+
+.DateRangePicker__CalendarDatePeriod--am {
+  right: 0 !important;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.bg-color1 {
+  background-color: #fd5c63 !important; 
+}
+
+.text-color1 {
+  color: #fd5c63 !important;
+}
+
+.border-color1 {
+  border-color: #fd5c63 !important;
+  box-shadow: #fd5c63 !important;
+}
+
+.inactive-button {
+  box-shadow: none;
+  background-color: #fd5c63 !important;
+  color: white !important;
+  border: 2px solid white !important;
+  font-weight: bold !important;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.active-button{
+  box-shadow: none;
+  background-color: white !important;
+  color: #fd5c63 !important;
+  font-weight: bold !important;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.active-button:focus{
+    border: 0;
+    box-shadow: none;
+    color: white;
+    outline: none !important;
+    text-decoration: none;
+}
+
+
+
+input:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.back-cover {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-custom-form{
+  background-color: rgba(255, 255, 255, 0.7); 
+  border-radius: 5px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.custom-title-h1 {
+  font-weight: bolder;
+}
+
+.custom-title-p {
+  font-weight: bold;
+}
+
+.border-custom-social {
+  border-bottom: 2px solid #fd5c63;
+}
+
+.custom-image-height{
+  height: 100% !important;
+}
+
+.bg-custom-form .btn{
+  border-radius: 7px;
+}
+
+.bg-custom-form input, select, textarea {
+  outline: 0;
+  border: 0;
+  border-radius: 20px !important;
+  text-indent: 10px;
+  color: #fd5c63 !important;
+  font-weight: bold !important;
+  resize: none !important;
+}
+
+.features-custom {
+  padding: 50px !important;
+}
+
+.features-h2-custom {
+  margin-top: 0 !important;
+}
+
+.btn-outline-primary {
+  border-color: #fd5c63 !important;
+  outline: 0 !important;
+}
+
+.btn-outline-primary:focus, .btn-outline-primary:hover {
+  outline: 0 !important;
+  box-shadow: 0 !important;
+  background-color: #fd5c63 !important;
+  border-color: #fd5c63;
+  color: white !important;
+  cursor: pointer;
+}
+
+.linkUtiliBtn {
+  border: 2px solid white !important;
+  outline: 0 !important;
+  color: white;
+  background-color: #fd5c63 !important;
+}
+
+.linkUtiliBtn:focus, .linkUtiliBtn:hover {
+  outline: 0 !important;
+  box-shadow: 0 !important;
+  background-color: white !important;
+  border-color: white;
+  color: #fd5c63 !important;
+  cursor: pointer;
+}
+
+.btn-sm {
+  cursor: pointer;
+}
+
+.col-md-12-social {
+  display: flex !important;
+  align-items: center !important;
+}
+
+.carousel-bg {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+
+.carousel-item {
+  height: 630px;
+  overflow: hidden;
+  width: 100%;
+  }
+.error-label {
+  color: red;
+  font-weight: bold;
+}
+
+.login-input {
+  border: 1px solid #fd5c63 !important;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 30px;
+  height: 25px;
+  left: 25px;
+  top: 25px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #fd5c63;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #fd5c63;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: white;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #fd5c63;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #fd5c63;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+  padding: 0.8em;
+}
+
+.bm-item-list {
+  color: transparent;
+}
+/* Individual item */
+.bm-item {
+  display: inline-block;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.bm-item:focus {
+  display: inline-block;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.menu-item {
+  border: 0;
+  box-shadow: none;
+  color: white;
+  outline: none !important;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.menu-item:focus {
+  border: 0;
+  box-shadow: none;
+  color: white;
+  outline: none !important;
+  text-decoration: none;
+}
+.menu-item:hover {
+  color: #DFDFE5;
+  text-decoration: none;
+}
+
+.menu-item:hover svg {
+  color: #DFDFE5;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.rbc-calendar {
+  min-height: 600px !important;
+  margin-top: 0px;
+}
+
+.rbc-event {
+  background-color: #fd5c63 !important; 
+}
+
+.rbc-btn-group:nth-child(2) {
+  display: none !important;
+}
+
+.dashboard-bookings-listing {
+  margin-top: 50px; 
+}
+
+.bookings-cards {
+  margin-top: 70px;
+}
+
+.my-header {
+  min-height: 700px;
+}
+
+.btn-features {
+  margin-top: 5px !important;
+  margin-bottom: 5px !important; 
+}
+
+#languageButtons {
+  position: fixed !important;
+  bottom: 20px !important;
+  text-align: center;
+  align-self: center;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+#languageButtons:focus {
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.DateRangePicker__LegendItemLabel {
+  color: white !important;
+}
+
+.DateRangePicker__PaginationArrowIcon {
+  color: black !important;
+}
+
+.DateRangePicker__Month {
+  background-color: white;
+  border-radius: 3px;
+  margin-bottom: 20px !important;
+}
+
+li {
+  list-style-image: none;
+  list-style-type: none;
+}
+
+.carousel-item p {
+  font-weight: bolder;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 525px) {
+  .btn-features {
+    margin-top: 5px;
+    margin-bottom: 5px; 
+  }
+  .my-header {
+    min-height: 500px;
+    background-position-x: -180px !important;
+  }
+  .prenotazioniHeader {
+    height: calc(100vh + 170px) !important;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 525px) and (max-width: 650px) {
+  .btn-features {
+    margin-top: 5px;
+    margin-bottom: 5px; 
+  }
+
+  .my-header {
+    min-height: 500px;
+    background-position-x: -96px;
+  }
+  .prenotazioniHeader {
+    height: calc(100vh + 100px) !important;
+  }
+}
+
+
+@media only screen and (min-width: 650px) and (max-width: 940px) {
+  .my-header {
+    min-height: 500px;
+    background-position-x: center;
+  }
+
+}
+
+
+

@@ -1,0 +1,82 @@
+{
+    "header": {
+        "h1": "Dolasilla",
+        "p": "Charme Apartments"
+    },
+    "bookingForm":{
+        "h4": "PRENOTA LA TUA VACANZA",
+        "labelName": "Nome",
+        "inputPlaceHolder": "Digita qui",
+        "labelCheckIn": "Data di Check In",
+        "labelCheckOut": "Data di Check Out",
+        "labelPeople": "N. di Persone",
+        "b": "Prenota",
+        "error": "C'è stato un problema con l'invio della tua richiesta. Riprova!"
+    },
+    "socialSection": {
+        "h1": "I nostri social media",
+        "p": "Scegli un'opzione e lascia un like"
+    },
+    "ImageGridContainer":{
+        "h1": "L'appartamento"
+    },
+    "dolasillaStory": {
+        "p": "La leggenda di",
+        "p2": "La fanciulla era bellissima, intelligentissima e coraggiosissima e possedeva una stola di ermellino e argento donatole dagli gnomi in segno di gratitudine. E aveva anche un’armatura confezionata dagli armaioli di corte, e archi incredibilmente efficaci che resistevano a chiunque, anche nel duro corpo a corpo. Il lago d’Argento offriva le canne per le frecce, che erano più infallibili di quanto si possa desiderare. Così, ben equipaggiata, Dolasilla, insieme alle marmotte, sconfisse in un baleno il nemico. La principessa vittoriosa fu portata in trionfo dal suo popolo per il sentiero impervio. Arrivata, Dolasilla fu incoronata da suo padre, il re, con la splendida Rajetta. Iniziò così un periodo di prosperità per il regno di Fanes e un meraviglioso capitolo della sua storia"
+    },
+    "apartmentFeatures": {
+        "h2": "Più che Dolasilla",
+        "p1": "Tutti sicuramente apprezzano un piacevole soggiorno in un accogliente appartamento di charme ma per gli amanti della vita all'aria aperta le Dolomiti hanno così tanto da offrire. Allacciate le scarpe, chiudete gli scarponi, impugnate il manubrio e immergetevi nelle Dolomiti",
+        "skiing": {
+            "h5": "Sciare",
+            "p2": "Esci da Apartment Dolasilla direttamente con gli sci ai piedi, raggiungi le piste ed esplora uno dei comprensori sciistici più grandi d’Europa: Dolomiti Superski"
+        },
+        "walking": {
+            "h5": "Camminare",
+            "p2": "Con vaste praterie e scenari mozzafiato, allaccia le scarpe e parti per una delle escursioni che la Val Gardena ha da offrire."
+        },
+        "biking": {
+            "h5": "Bici",
+            "p2": "Le Dolomiti sono il paradiso per gli amanti della mountain bike. Dalle famiglie agli atleti professionisti, migliaia di chilometri di sentieri non deludono mai."
+        },
+        "more": {
+            "h5": "Molto altro",
+            "p2": "Appassionato di arrampicata? Amante del pericolo? Parapendio! Amante degli animali? Nessun problema: la Val Gardena non delude mai."
+        },
+        "button": "ESTATE + PASSEGGIATE"
+    },
+    "footer": {
+        "h2": "Contatti"
+    },
+    "guestBook":{
+        "review1": {
+            "p1": "Matteo è un proprietario eccellente. È stato estremamente ospitale e premuroso, rispondendo velocemente a tutti i messaggi. Il posto è fantastico: attrezzature, decorazioni e in un’ ottima posizione. Garage privato nell'edificio. Supermercato nelle vicinanze (DESPAR) a soli 2 minuti a piedi. Ci ha fatto trovare il caffè Nespresso e spumante, e per finire ci ha anche dato delle tessere per prendere l’autobus gratuitamente.",
+            "p2": "Posto davvero fantastico, altamente consigliato!!"
+        },
+        "review2": {
+            "p1": "Una delle viste più spettacolari in uno dei luoghi più spettacolari. L'appartamento era silenzioso, privato e stupendo. Perfetto per una famiglia di quattro persone con vista da cartolina da tutte le stanze dell'appartamento. Matteo è stato super veloce nelle risposte e molto disponibile. Avevamo tutto ciò di cui potevamo aver bisogno per cucinare e preparare pasti meravigliosi, perfetti per essere accompagnati da una meravigliosa collezione di vini",
+            "p2": "Quando torneremo a Selva sapremo dove andare, se disponibile!"
+        },
+        "review3": {
+            "p1": "L'alloggio è posizionato in una zona tranquilla, vicina al centro del paese e di un supermercato. L'appartamento è curato in ogni dettaglio, perfettamente conservato e curato, in particolare le rifiniture dei bagni; ogni spazio è stato perfettamente sfruttato. La cucina è dotata di tutto il necessario. Il comfort è elevato.",
+            "p2": "Possibilità di parcheggiare l'auto in un box collegato all'appartamento tramite ascensore. Ottimo rapporto qualità/prezzo. Ottima e apprezzata la disponibilità e la gentilezza del proprietario."
+        },
+        "review4": {
+            "p1": "Dolasilla è un meraviglioso tesoro nel cuore di Selva, con una posizione invidiabile che consente di non utilizzare l’automobile per tutta la vacanza: si scia direttamente da casa, si arriva in centro o al supermercato in pochi passi a piedi.",
+            "p2": "La casa è curata in ogni dettaglio, elegante e pulitissima. L’ospitalità è eccezionale. Ci torneremo sicuramente"
+        },
+        "review5": {
+            "p1": "Abbiamo trascorso un soggiorno estremamente piacevole nel bellissimo appartamento di Matteo.",
+            "p2": "Garage, accesso diretto alle piste, magnifici scenari ed un meteo eccellente. Torneremo sicuramente a Selva."
+        },
+        "review6": {
+            "p1": "L’appartamento di Matteo si trova  in una location fantastica di Selva di Val Gardena. Offre la possibilità di fare ski-in-ski-out, anche se noi non ne abbiamo avuto bisogno in quanto lasciavamo gli sci al noleggio, raggiungibile tramite una breve passeggiata in discesa verso il paese.",
+            "p2": "La cucina è molto ben equipaggiata e tutto sembra nuovissimo. Consiglio vivamente questo appartamento e ci tornerei sicuramente."
+        }
+    },
+    "login": {
+            "h4": "Effettua il login",
+            "error": "C'è stato un problema con il tuo login. Riprova!",
+            "b": "Effettua l'accesso"
+    }
+}

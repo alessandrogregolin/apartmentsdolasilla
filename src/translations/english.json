@@ -1,0 +1,83 @@
+{
+    "header": {
+        "h1": "Dolasilla",
+        "p": "Charme Apartments"
+    },
+    "bookingForm":{
+        "h4": "BOOK YOUR HOLIDAY",
+        "labelName": "Name",
+        "inputPlaceHolder": "Type Here",
+        "labelCheckIn": "Date of Check In",
+        "labelCheckOut": "Date of Check Out",
+        "labelPeople": "N. of People",
+        "b": "Book",
+        "error": "There was an error sending your booking request. Try again!"
+    },
+    "socialSection": {
+        "h1": "Our social media",
+        "p": "Choose an option and leave a like"
+    },
+    "ImageGridContainer":{
+        "h1": "The apartment"
+    },
+    "dolasillaStory": {
+        "p": "The legend of",
+        "p2": "The maiden was very beautiful, extremely intelligent and very brave, and possessed an ermine and silver stole given to her by the gnomes in gratitude. She also had an armor made by court armorers, and incredibly effective bows that resisted anyone, even in the tough melee. The Silver Lake offered reeds for arrows, which were more infallible than you could wish for. Thus, well equipped, Dolasilla, together with the marmots, quickly defeated the enemy. The victorious princess was carried in triumph by her people through the impassable path. When she arrived, Dolasilla was crowned by her father, the king, with the splendid Rajetta. Thus began a period of prosperity for the kingdom of Fanes and a wonderful chapter in its history"
+    },
+    "apartmentFeatures": {
+        "h2": "Around Dolasilla",
+        "p1": "Everyone surely loves a pleasant stay in a cosy charme apartment but for the outdoors lovers the Dolomites have so much to offer. Tie your shoes, close your ski boots, jump on your bike and start your next adventure",
+        "skiing": {
+            "h5": "Skiing",
+            "p2": "Leave Apartment Dolasilla directly with your skis, reach the slopes and explore one of the largest ski areas in Europe: Dolomiti Superski"
+        },
+        "walking": {
+            "h5": "Walking",
+            "p2": "With vast prairies and breathtaking scenery, tie your shoes and set off on one of the excursions Val Gardena has to offer."
+        },
+        "biking": {
+            "h5": "Biking",
+            "p2": "The Dolomites are a real paradise for mountain-bike lovers. From families to professional athletes, thousands of kilometers of trails never disappoint."
+        },
+        "more": {
+            "h5": "Many more",
+            "p2": "Love climbing? Chasing thrill? What about paragliding? Love animals? No problem: Val Gardena never disappoints."
+        },
+        "button": "SUMMER + HIKING"
+    },
+    "footer": {
+        "h2": "Contacts"
+    },
+    "guestBook":{
+        "review1": {
+            "p1": "Matteo is a super host. He was so hospitable and thoughtful, super quick to respond. Also the place is fantastic, equipment, decoration and great location. Private parking in the building. Supermarket nearby (DESPAR) just 2mins walk. He prepared Nespresso and Sparkling wine as a complementary also gave us a public transportation card for free bus in town.",
+            "p2": "Really great place, Highly recommended!!"
+        },
+        "review2": {
+            "p1": "One of the most spectacular views in one of the most spectacular places. The apartment was quiet, private and absolutely beautiful. Perfect for a family of four with postcard views from all areas of the apartment. Matteo was super responsive and very helpful. We had everything we need to cook and prepare beautiful meals and there was a wonderful collection of wines to complement and dinner we cooked.",
+            "p2": "When we come back we will most definitely be staying there if it is available."
+        },
+        "review3": {
+            "p1": "The apartment is situated in a very quiet and calm zone, close to the town center and the supermarket. The apartment is curated in every detail, perfectly kept and very clean, especially the finishes in the bathroom; all of the space available has been used. The kitchen has all of the necessary. Comfort is high.",
+            "p2": "There is the possibility to park the car in a private garage box connected to the apartment through a convenient elevator. Excellent ratio quality/price. Excellent and appreciated the availability and the kindness of the owner."
+        },
+        "review4": {
+            "p1": "Dolasilla is a wonderful treasure in the heart of Selva, with an enviable position that allows you to leave your car and forget it for the entire holiday: you can leave the home directly  with the skis, you can reach the center or the supermarket in a few steps.",
+            "p2": "In the house there is great attention to details, it is elegant and very clean. Hospitality is exceptional. We will definitely come back."
+        },
+        "review5": {
+            "p1": "We had a very pleasant stay at the beautiful apartment of Matteo.",
+            "p2": "Garage,ski-in/out,beautiful scenery and weather,makes that we will certainly come back to Selva."
+        },
+        "review6": {
+            "p1": "Matteo's apartment is in an excellent location for skiers in Selva Val Gardena. It has ski-in-ski-out capability which we did not use as we kept our ski gear at the rental shop just an easy walk down the hill each morning. The kitchen is very well appointed and everything looks brand new.",
+            "p2": "I would definitely recommend this apartment and would absolutely stay there again."
+        }
+    },
+    "login": {
+        "h4": "Log In",
+        "error": "There was a problem with your login. Try again!",
+        "b": "Log In"
+}
+
+}
